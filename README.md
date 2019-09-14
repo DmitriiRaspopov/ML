@@ -1,3 +1,3 @@
 # PUZK
 
-Задание про систему ПУЗК, прдназначенную для диагностики сварных швов и поиска в них дефектов и их эквивалентных размеров.
+This project includes various solutions to the basic tasks of machine learning and deep learning.
